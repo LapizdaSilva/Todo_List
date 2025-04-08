@@ -16,7 +16,7 @@ python tarefas.py
 
 Ao iniciar o programa, será exibido um menu:
 
-1 - Ver Tarefas
+1 - Ver Tarefas \n
 2 - Adicionar Tarefa
 3 - Remover Tarefa
 4 - Marcar Tarefa como Concluída
