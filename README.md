@@ -1,10 +1,10 @@
 # Todo_List
 
-Gerenciador de Tarefas em Python (Terminal)
+Gerenciador de Tarefas em Python (CLI)
 
 Este é um gerenciador de tarefas simples, executado no terminal, feito com Python. Ele permite que você adicione, visualize, edite e remova tarefas, com salvamento automático em um arquivo .json.
 
-Como usar
+Como usar:
 
 # 1. Execute o script
 
