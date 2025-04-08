@@ -61,10 +61,11 @@ status: estado atual (❌, ⏳ ou ✅)
 
 criado_em: data e hora da criação
 
-# URL DO PROJETO:
-https://roadmap.sh/projects/task-tracker
-Requisitos
+#Requisitos
 
 Python 3.x
 
 Bibliotecas usadas: datetime, json, os (todas da biblioteca padrão)
+
+# URL DO PROJETO:
+https://roadmap.sh/projects/task-tracker
