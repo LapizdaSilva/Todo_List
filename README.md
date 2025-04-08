@@ -16,13 +16,13 @@ python tarefas.py
 
 Ao iniciar o programa, será exibido um menu:
 
-1 - Ver Tarefas \n
-2 - Adicionar Tarefa
-3 - Remover Tarefa
-4 - Marcar Tarefa como Concluída
-5 - Marcar Tarefa em Progresso
-6 - Desmarcar Tarefa
-7 - Sair
+  * 1 - Ver Tarefas
+  * 2 - Adicionar Tarefa
+  * 3 - Remover Tarefa 
+  * 4 - Marcar Tarefa como Concluída 
+  * 5 - Marcar Tarefa em Progresso 
+  * 6 - Desmarcar Tarefa 
+  * 7 - Sair
 
 Escolha uma opção digitando o número correspondente.
 
@@ -60,7 +60,7 @@ titulo: descrição da tarefa
 status: estado atual (❌, ⏳ ou ✅)
 
 criado_em: data e hora da criação
-
+        
 Requisitos
 
 Python 3.x
