@@ -61,7 +61,7 @@ status: estado atual (❌, ⏳ ou ✅)
 
 criado_em: data e hora da criação
 
-#Requisitos
+# Requisitos
 
 Python 3.x
 
