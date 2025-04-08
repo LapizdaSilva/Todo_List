@@ -60,7 +60,9 @@ titulo: descrição da tarefa
 status: estado atual (❌, ⏳ ou ✅)
 
 criado_em: data e hora da criação
-        
+
+# URL DO PROJETO:
+https://roadmap.sh/projects/task-tracker
 Requisitos
 
 Python 3.x
